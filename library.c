@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "library.h"
+#include "header.h"
 
 //struct nodo con etichetta, peso dell'arco entrante e puntatore al nodo successivo nella lista
 typedef struct nodo {
